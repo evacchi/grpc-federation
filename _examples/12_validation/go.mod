@@ -24,7 +24,7 @@ require (
 	github.com/google/uuid v1.5.0 // indirect
 	github.com/planetscale/vtprotobuf v0.6.0 // indirect
 	github.com/stoewer/go-strcase v1.2.0 // indirect
-	github.com/tetratelabs/wazero v1.6.0 // indirect
+	github.com/tetratelabs/wazero v1.6.1-0.20240308084154-15cc0c59f3d1 // indirect
 	go.opentelemetry.io/otel/metric v1.21.0 // indirect
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc // indirect
 	golang.org/x/net v0.19.0 // indirect

@@ -27,7 +27,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.0 // indirect
 	github.com/planetscale/vtprotobuf v0.6.0 // indirect
 	github.com/stoewer/go-strcase v1.2.0 // indirect
-	github.com/tetratelabs/wazero v1.6.0 // indirect
+	github.com/tetratelabs/wazero v1.6.1-0.20240308084154-15cc0c59f3d1 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.21.0 // indirect
 	go.opentelemetry.io/otel/metric v1.21.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.0.0 // indirect
